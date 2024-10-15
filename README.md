@@ -5,7 +5,7 @@ Welcome to the **Recipe Explorer!** This project is a web application built usin
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[Recipe Explorer Live Demo](https://your-live-demo-url.com)
+[Recipe Explorer Live Demo](https://vercel.live/link/recipe-app-using-next-js-six.vercel.app?via=project-dashboard-alias-list&p=1)
 
 ## 📦 Direct Download
 
