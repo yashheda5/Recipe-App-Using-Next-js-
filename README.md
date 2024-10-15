@@ -10,7 +10,7 @@ Check out the live demo of the app hosted on Vercel:
 ## 📦 Direct Download
 
 Download the latest version of the project as a ZIP file:  
-[Download ZIP](https://github.com/yashheda5/Recipe-Explorer/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/yashheda5/Recipe-App-Using-Next-js-/archive/refs/heads/main.zip)
 
 ## 🚀 Getting Started
 
@@ -19,12 +19,12 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yashheda5/Recipe-Explorer.git
+   git clone https://github.com/yashheda5/Recipe-App-Using-Next-js-.git
 
 
 2. **Navigate to the project directory:**
     ```sh
-    cd E-commerce-website
+    cd Recipe App Using Nextjs
 
     ```
 
